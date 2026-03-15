@@ -138,7 +138,7 @@ cd Guesser-Game
 ### Step 3: Compile the program
 
 ```bash
-javac *.java
+javac GuesserGame.java
 ```
 
 ### Step 4: Run the game
